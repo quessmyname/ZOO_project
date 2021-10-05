@@ -6,7 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZOO_proj", "ZOO_proj\ZOO_proj.csproj", "{3B77385A-6827-488D-96A3-AC913C6ADC6D}"
 EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
